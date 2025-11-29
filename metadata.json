@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Flashcards",
+  "description": "An AI-powered vocabulary learning application. Create decks manually or generate them instantly using Gemini 2.5 Flash. Features study modes and AI context explanations.",
+  "requestFramePermissions": []
+}
